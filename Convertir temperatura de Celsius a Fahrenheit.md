@@ -1,8 +1,8 @@
-##Convertir temperatura de Celsius a Fahrenheit
-##Nombre:** [Miguel Guadalupe Saldana Ramirez]
-##Número de Control:** [21210426]
-##Práctica:** [Ejercicios Assembly 21-30]
-##Fecha:** [11/11/2024]
+#Convertir temperatura de Celsius a Fahrenheit
+#Nombre:** [Miguel Guadalupe Saldana Ramirez]
+#Número de Control:** [21210426]
+#Práctica:** [Ejercicios Assembly 21-30]
+#Fecha:** [11/11/2024]
 
 .section .data
 output_msg:
